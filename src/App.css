@@ -14,7 +14,7 @@ body {
 .todo-app {
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: flex-start;
   width: 35%;
   min-height: 780px;
   background: #D4E7D9;
